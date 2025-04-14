@@ -3,12 +3,13 @@ A custom Onboard layout that modifies the minimalist "Phone" layout to include n
 
 This layout is ideal for ~10" touchscreens, but works well at just about every size.
 
-## Instructions
+## Installation
 - Open Onboard Preferences and go to "Layout." 
 - Click "Open Layouts Folder" and insert the layout files from this project there.
 - Close and reopen Onboard Preferences and the new PhonePlus layout should be there.
 
 ## Images
-![Example-Main](example/Onboard-PhonePlus.png)
-
-![Example-Alt](example/Onboard-PhonePlus2.png)
+First Layer
+![Example-Main](example/Onboard-PhonePlus.jpg)
+Symbol Layer
+![Example-Alt](example/Onboard-PhonePlus2.jpg)
