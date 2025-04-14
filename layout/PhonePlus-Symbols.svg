@@ -7,7 +7,7 @@
    width="240"
    version="1.0"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="PhonePlus-Numbers.svg"
+   sodipodi:docname="PhonePlus-Symbols.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,6 +15,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title50">Phone-Symbols.svg</title>
   <defs
      id="defs84" />
   <sodipodi:namedview
@@ -26,12 +28,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2558"
+     inkscape:window-width="2310"
      inkscape:window-height="1232"
      id="namedview82"
      showgrid="false"
      inkscape:zoom="3.16"
-     inkscape:cx="129.58861"
+     inkscape:cx="-25.949367"
      inkscape:cy="38.924051"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -52,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Phone-Numbers.svg</dc:title>
+        <dc:title>Phone-Symbols.svg</dc:title>
         <cc:license
            rdf:resource="https://www.gnu.org/licenses/gpl.txt" />
         <dc:creator>
@@ -65,19 +67,20 @@
             <dc:title>GPL-3+ license</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title>Onboard Devel Team</dc:title>
-          </cc:Agent>
-        </dc:publisher>
         <dc:source>https://launchpad.net/onboard</dc:source>
         <dc:relation>This file is part of Onboard</dc:relation>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Copyright © 2013, 2016, Francesco Fumanti &lt;francesco.fumanti@gmx.net&gt;
+            <dc:title>Copyright © 2025, Matt Meyers &lt;forrealyessir@gmail.com&gt;
+Copyright © 2013, 2016, Francesco Fumanti &lt;francesco.fumanti@gmx.net&gt;
 Copyright © 2011-2014, marmuta &lt;marmvta@gmail.com&gt;</dc:title>
           </cc:Agent>
         </dc:contributor>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Matt Meyers</dc:title>
+          </cc:Agent>
+        </dc:publisher>
       </cc:Work>
     </rdf:RDF>
   </metadata>

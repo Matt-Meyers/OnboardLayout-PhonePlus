@@ -134,7 +134,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
             <key group="alphanumeric" id="AB07"/>
             <key group="bottomrow" id="BKSP"/>
           </panel>
-          <panel filename="PhonePlus-Numbers.svg" layer="numbers">
+          <panel filename="PhonePlus-Symbols.svg" layer="numbers">
             <!-- row 5 new high row -->
             <key group="alphanumeric" id="BE01" char="$" label="$"/>
             <key group="alphanumeric" id="BE02" label="€" keysym="8364"/>

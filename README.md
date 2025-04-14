@@ -13,3 +13,6 @@ First Layer
 ![Example-Main](example/Onboard-PhonePlus.jpg)
 Symbol Layer
 ![Example-Alt](example/Onboard-PhonePlus2.jpg)
+
+## License
+Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
