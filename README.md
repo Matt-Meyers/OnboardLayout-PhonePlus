@@ -1,5 +1,5 @@
 # OnboardLayout-PhonePlus
-A custom Onboard layout that modifies the minimalist "Phone" layout to include number row on first layer. All special chars on 1 alt layer instead of 3. Emojis have been removed and Esc has been added.
+A custom Onboard layout that modifies the minimalist "Phone" layout to include number row on first layer. All special chars on 1 single alt layer instead of 3. Emojis have been removed and Esc has been added.
 
 This layout is ideal for ~10" touchscreens, but works well at just about every size.
 
